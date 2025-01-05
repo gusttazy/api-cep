@@ -27,5 +27,8 @@ Bem-vindo ao repositório **API CEP**! 🎉 Aqui você encontra uma aplicação 
 2. Abra o arquivo `index.html` no navegador.
 3. Insira o CEP no campo e clique em **Consultar**. ✨
 
+## 🔗 Preview do Projeto
+Acesse a aplicação diretamente através deste link: [Preview do Projeto](https://gusttazy.github.io/api-cep/). 🌐
+
 ## 🛡️ Licença
-Este projeto está sob a licença MIT. 📄 
+Este projeto está sob a licença MIT. 📄
